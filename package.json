@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node index.js",
     "dev": "nodemon index.js",
-    "server": "json-server --watch db.json --port 5000"
+    "server": "json-server --watch db.json --port 10000"
   },
   "keywords": [],
   "author": "",
